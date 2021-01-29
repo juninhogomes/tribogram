@@ -4,6 +4,8 @@ O grupo Oficial da Tribo Gaules no Telegram tem o prazer de anunciar seu primeir
 
 Um torneio organizado pela Tribo que pretende ajudar a divulgar ainda mais perfis e streamers que estão no inicio ou precisando de um novo gás na sua divulgação.
 
+Para fazer uma pré inscrição e se manter atualizado, (preencha seus dados aqui)[https://forms.gle/B6tXCXfLdpdJN8US8]
+
 # O que é, para que é e como vai ser o torneio.
 
 O campeonato não tem **nenhuma relação direta com o Gaules**, sendo totalmente organizado pelos fãs e membros da comunidade, *vulgo chat*, e tem intuido de ser um espaço para confraternização e divulgação de canais. As equipes serão formadas por times de no mínimo 5 jogadores e no máximo de 7 jpogadores. Cada equipe também pode ter um coach.
