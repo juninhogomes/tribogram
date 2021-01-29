@@ -2,7 +2,7 @@
 
 O grupo Oficial da Tribo Gaules no Telegram tem o prazer de anunciar seu primeiro torneio de CS amador!
 
-Um torneio organizado pela Tribo que pretende ajudar a divulgar ainda mais perfis e streamers que estão no inicio ou precisando de um novo gás na sua divulgação.
+Um torneio organizado pela Tribo que pretende ajudar a divulgar ainda mais perfis e streamers que estão no inicio ou precisando de um gás no seu canal.
 
 Para fazer uma pré inscrição e se manter atualizado, (preencha seus dados aqui)[https://forms.gle/B6tXCXfLdpdJN8US8]
 
