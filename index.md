@@ -14,7 +14,7 @@ Os jogos serão online em partidas de mapa único. As datas e regras do torneio 
 
 Mas a grande proposta do campeonato ainda é a diversão e a competição. As equipes podem ser formadas por pessoas que se conhecem ou formar uma equipe totalmente nova! As tabelas serão formadas conforme o nível dos times, onde tentaremos manter o maior equilibrio possível. 
 
-Por exemplo, a intenção é que times do nível prata enfretem outras pessoas do nível prata, nível ouro enfrentar ouro, nível globail enfrentar global elite.
+Por exemplo, a intenção é que times do nível prata enfretem outras pessoas do nível prata, nível ouro enfrentar ouro, nível global enfrentar global elite.
 
 ## Streamers
 
