@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# PRIMEIRO CAMPEONATO DE CS DO TELEGRAM DA TRIBO!
 
-You can use the [editor on GitHub](https://github.com/juninhogomes/tribogram/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+O grupo Oficial da Tribo Gaules no Telegram tem o prazer de anunciar seu primeiro torneio de CS amador!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Um torneio organizado pela Tribo que pretende ajudar a divulgar ainda mais perfis e streamers que estão no inicio ou precisando de um novo gás na sua divulgação.
 
-### Markdown
+# O que é, para que é e como vai ser o torneio.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+O campeonato não tem **nenhuma relação direta com o Gaules**, sendo totalmente organizado pelos fãs e membros da comunidade, *vulgo chat*, e tem intuido de ser um espaço para confraternização e divulgação de canais. As equipes serão formadas por times de no mínimo 5 jogadores e no máximo de 7 jpogadores. Cada equipe também pode ter um coach.
 
-```markdown
-Syntax highlighted code block
+Os jogos serão online em partidas de mapa único. As datas e regras do torneio serão publicadas em breve.
 
-# Header 1
-## Header 2
-### Header 3
+Mas a grande proposta do campeonato ainda é a diversão e a competição. As equipes podem ser formadas por pessoas que se conhecem ou formar uma equipe totalmente nova! As tabelas serão formadas conforme o nível dos times, onde tentaremos manter o maior equilibrio possível. 
 
-- Bulleted
-- List
+Por exemplo, a intenção é que times do nível prata enfretem outras pessoas do nível prata, nível ouro enfrentar ouro, nível globail enfrentar global elite.
 
-1. Numbered
-2. List
+## Streamers
 
-**Bold** and _Italic_ and `Code` text
+Para as pessoas que querem streamar o campeonato tem a oportunidade de divulgação do seu trabalho narrando e também produzindo outros conteúdos.
+Podemos ter entrevistas com os jogadores, análises táticas e patetadas sem fim.
 
-[Link](url) and ![Image](src)
-```
+Obviamente a pessoa que fizer a transmissão pode chamar outras pessoas para participar, com comentários ou observações. Porém, ele também será o responsável por ser espectador da partida e gerenciar as imagens que vão ao ar. Claro, se tiver alguém que queira ser espec fixo e saiba como fazer isso ficaremos muito, muito felizes também hahah.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Também temos a ideia de fazer uma "mesa redonda", um bate papo sobre o campeonato, sobre as partidas e também escolher os melhores da competição.
 
-### Jekyll Themes
+Ah, e o campeonato é tanto para meninos e meninas!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juninhogomes/tribogram/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Divulgação
 
-### Support or Contact
+Como a organização é feita por fãs e totalmente amadora, estamos aceitando ajuda de perfis e pessoas que possam ajudar com a divulgação da partida. Em troca disso podemos ajudar na criação de conteúdo único para os perfis como liberação dos vídeos da partida, clipes, acesso a jogadores e streamers ou outras coisas que possam ser possíveis.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Premiação
+
+No momento não possuimos nenhuma premiação em vista, mas, caso queira nos ajudar e contribuir com dinheiro, skins ou o que você desejar, desde que seja dentro da lei, iremos agradecer e divulgar você ou sua marca nos contéudos do campeonato.
+
+# Situação atual
+
+No momento estamos começando a organização. Estamos em busca de equipes, jogadores, streamers, divulgadores e patrocinadores e pessoas que tenham habilidades técnicas para fazermos um evento super legal e que possamos repetir por muito tempo.
+
+Estamos precisando de pessoas para:
+
+- Gerenciar servidor no Discord (link em breve)
+- Criação de lobbys e administração da partida no server
+- Criadores de conteúdo
+- Pessoas que queiram ajudar realmente o evento acontecer! 
+
+# IMPORTANTE
+
+As informações aqui serão alteradas conforme formos evoluindo na organização do evento. Ainda temos outras coisas que queremos fazer, e vamos atualizando por aqui. Inscreva-se no nosso pré-formulário e ajude nesse sonho!
+
