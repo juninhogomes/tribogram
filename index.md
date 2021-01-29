@@ -4,7 +4,7 @@ O grupo Oficial da Tribo Gaules no Telegram tem o prazer de anunciar seu primeir
 
 Um torneio organizado pela Tribo que pretende ajudar a divulgar ainda mais perfis e streamers que estão no inicio ou precisando de um gás no seu canal.
 
-Para fazer uma pré inscrição e se manter atualizado, (preencha seus dados aqui)[https://forms.gle/B6tXCXfLdpdJN8US8]
+Para fazer uma pré inscrição e se manter atualizado, [preencha seus dados aqui](https://forms.gle/B6tXCXfLdpdJN8US8)
 
 # O que é, para que é e como vai ser o torneio.
 
